@@ -1,1 +1,1 @@
-# tic-tac-toe
+This is a template repository
